@@ -67,4 +67,7 @@ if __name__ == "__main__":
     OptCpuSuggestion(meanCpu,assignedCpuCores)
     OptMemorySuggestion(meanMemory,assignedMemory)
 
+    ##123
+    print(1)
+
 
